@@ -1,0 +1,48 @@
+footer ul {
+    color: rgb(181, 181, 181);
+    font-weight: 600;
+    font-size: 12px;
+}
+
+footer {
+    display: flex;
+    margin-top: 1rem;
+    margin-left: 24rem;
+}
+
+.comunity {
+    width: 15%;
+    margin: 1rem;
+    margin-left: 1.5rem;
+}
+
+.comunity li {
+    padding: 5px;
+}
+.comunity ul :hover {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+
+.social_media{
+    display: flex;
+    margin-left: 2.5rem;
+    height: 0px;
+}
+
+.social_media img {
+    height: 20px;
+}
+
+.social_media :hover{
+    background-color: rgb(255, 255, 255);
+}
+
+.social {
+    padding: 5px;
+    margin: 10px;
+    margin-top: 1.5rem;
+    border-radius: 50%;
+    border: none;
+    background-color: rgb(56, 54, 54);
+}

@@ -1,0 +1,58 @@
+h3 {
+    font-size: 15px;
+    font-weight: 600;
+    color: rgb(255, 255, 255);
+    padding: 6px 0px 6px 6px;
+}
+
+.group {
+    width: 100%;
+    margin-top: 3rem;
+    background: linear-gradient(rgb(29, 28, 28),rgb(20, 19, 19));   
+}
+
+.busca {
+    display: flex;
+    width: 100%;
+    margin-top: 2.5rem;
+}
+
+.artist {
+    width: 100%;
+    font-size: 24px;
+    font-weight: 600;
+    font-style: inherit;
+    height: 10%;
+    white-space: nowrap;
+    margin: 1.5rem;
+    margin-bottom: 1rem;
+}
+
+.all {
+    font-size: 14px;
+    font-style: inherit;
+    width: 10%;
+    height: 10%;
+    white-space: nowrap;
+    margin: 1rem;
+}
+
+.all a {
+    color: rgb(181, 181, 181);
+
+}
+
+.profile {
+    border: none;
+    display: flex;
+    margin-left: 10px;
+    font-size: 1rem;
+}
+
+.description {
+    color: rgb(181, 181, 181);
+    margin-top: 8px;
+    font-size: 14px;
+    
+}
+

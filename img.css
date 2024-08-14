@@ -1,0 +1,57 @@
+.art {
+    width: 100%;
+    margin: 12px;
+    margin-bottom: 1rem;
+}
+
+.art button {
+    height: 9rem;
+    width: 100%;
+    margin-bottom: 2rem;
+    border: 0;
+    background-color: rgb(29, 28, 28);
+}
+
+.art img {
+    height: 10rem;
+    width: 100%;
+    background-position: center;
+    border-radius: 50%;
+    text-align: center;
+    margin-bottom: 1rem;
+    border: none;
+}
+
+.art :hover {
+    transform: scale(1.03);
+    background-color: rgb(41, 39, 39);
+}
+
+.art2 {
+    width: 20%;
+    margin: 12px;
+    margin-bottom: 1rem;
+    
+}
+
+.art2 button {
+    height: 10rem;
+    width: 100%;
+    border: 0;
+    background-color: rgb(20, 19, 19);
+    margin-bottom: 1rem;
+}
+
+.art2 img {
+    height: 10rem;
+    width: 100%;
+    background-position: center;
+    border-radius: 12px;
+    text-align: center;
+    border: none;
+}
+
+.art2 :hover {
+    transform: scale(1.03);
+    background-color: rgb(41, 39, 39);
+}
